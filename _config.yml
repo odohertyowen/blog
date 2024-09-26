@@ -1,14 +1,14 @@
 # Site settings
-title: Monochrome | A minimal, responsive Jekyll blog theme
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
+title: The Data Pipeline
+description: "Data Engineering and Anaytical talking points"
 url: "https://odohertyowen.github.io/blog"
 author:
-  name: "The Review Index"
+  name: "Owen O Doherty"
   email: "odohertyowen@gmail.com"
   url: "https://odohertyowen.github.io"
 
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl:  # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
